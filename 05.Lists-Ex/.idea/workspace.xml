@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17d901cd-56f1-49ce-9d61-ad029c773200" name="Changes" comment="" />
+    <list default="true" id="17d901cd-56f1-49ce-9d61-ad029c773200" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex03_HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex03_HouseParty.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,5 +81,12 @@
       <updated>1737581439134</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="name" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

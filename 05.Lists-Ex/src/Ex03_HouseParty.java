@@ -15,18 +15,18 @@ public class Ex03_HouseParty {
 
             if (!input[2].equals("not")) {
                 if (guests.contains(name)) {
-                    System.out.printf("%s is already in the list!", name);
+                    System.out.printf("%s is already in the list!\n", name);
                     continue;
                 }
 
                 guests.add(name);
             } else {
                 if (!guests.contains(name)) {
-                    System.out.printf("%s is not in the list!", name);
+                    System.out.printf("%s is not in the list!\n", name);
                     continue;
                 }
 
-                guests.removeIf(guest -> guests.contains(name));
+                guests.removeIf(guest -> guest.equals(name));
             }
         }
 
