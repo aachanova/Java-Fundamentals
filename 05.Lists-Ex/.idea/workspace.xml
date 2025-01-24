@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ex01_1_Train.executor": "Run",
+    "Application.Ex02_1_ChangeList.executor": "Run",
     "Application.Ex03_HouseParty.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -57,9 +58,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex01_1_Train">
+  <component name="RunManager" selected="Application.Ex02_1_ChangeList">
     <configuration name="Ex01_1_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex01_1_Train" />
+      <module name="05.Lists-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02_1_ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex02_1_ChangeList" />
       <module name="05.Lists-Ex" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex02_1_ChangeList" />
         <item itemvalue="Application.Ex01_1_Train" />
         <item itemvalue="Application.Ex03_HouseParty" />
       </list>
