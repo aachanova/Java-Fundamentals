@@ -45,18 +45,19 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ex01_1_Train.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex02_1_ChangeList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex03_HouseParty.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex04_1_ListOperations.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex01_1_Train.executor": "Run",
+    "Application.Ex02_1_ChangeList.executor": "Run",
+    "Application.Ex03_HouseParty.executor": "Run",
+    "Application.Ex04_1_ListOperations.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Ani/000-Java-Fundamentals/04.Methods-Ex"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Ex04_1_ListOperations">
     <configuration name="Ex01_1_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex01_1_Train" />
