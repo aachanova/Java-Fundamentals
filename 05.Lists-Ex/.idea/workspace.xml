@@ -55,6 +55,7 @@
     "Application.Ex04_1_ListOperations.executor": "Debug",
     "Application.Ex05_1_BombNumbers.executor": "Run",
     "Application.Ex06_1_CardsGame.executor": "Run",
+    "Application.Ex07_1_AppendArrays.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -62,14 +63,7 @@
     "last_opened_file_path": "D:/Ani/000-Java-Fundamentals/05.Lists-Ex"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex06_1_CardsGame">
-    <configuration name="Ex01_1_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex01_1_Train" />
-      <module name="05.Lists-Ex" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex07_1_AppendArrays">
     <configuration name="Ex02_1_ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex02_1_ChangeList" />
       <module name="05.Lists-Ex" />
@@ -98,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex07_1_AppendArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex07_1_AppendArrays" />
+      <module name="05.Lists-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex07_1_AppendArrays" />
         <item itemvalue="Application.Ex06_1_CardsGame" />
         <item itemvalue="Application.Ex05_1_BombNumbers" />
         <item itemvalue="Application.Ex04_1_ListOperations" />
         <item itemvalue="Application.Ex02_1_ChangeList" />
-        <item itemvalue="Application.Ex01_1_Train" />
       </list>
     </recent_temporary>
   </component>
@@ -122,8 +123,7 @@
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="Application">
-        <watch expression="deck1" language="JAVA" />
-        <watch expression="deck2" language="JAVA" />
+        <watch expression="line" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
