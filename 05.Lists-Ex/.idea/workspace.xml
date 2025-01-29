@@ -56,6 +56,7 @@
     "Application.Ex05_1_BombNumbers.executor": "Run",
     "Application.Ex06_1_CardsGame.executor": "Run",
     "Application.Ex07_1_AppendArrays.executor": "Run",
+    "Application.MoreEx01_1_Messaging.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -63,14 +64,7 @@
     "last_opened_file_path": "D:/Ani/000-Java-Fundamentals/05.Lists-Ex"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex07_1_AppendArrays">
-    <configuration name="Ex02_1_ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex02_1_ChangeList" />
-      <module name="05.Lists-Ex" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MoreEx01_1_Messaging">
     <configuration name="Ex04_1_ListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex04_1_ListOperations" />
       <module name="05.Lists-Ex" />
@@ -99,13 +93,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoreEx01_1_Messaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreEx01_1_Messaging" />
+      <module name="05.Lists-Ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoreEx01_1_Messaging" />
         <item itemvalue="Application.Ex07_1_AppendArrays" />
         <item itemvalue="Application.Ex06_1_CardsGame" />
         <item itemvalue="Application.Ex05_1_BombNumbers" />
         <item itemvalue="Application.Ex04_1_ListOperations" />
-        <item itemvalue="Application.Ex02_1_ChangeList" />
       </list>
     </recent_temporary>
   </component>
