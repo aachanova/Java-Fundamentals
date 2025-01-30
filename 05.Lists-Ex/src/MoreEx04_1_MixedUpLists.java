@@ -26,11 +26,11 @@ public class MoreEx04_1_MixedUpLists {
         int start;
         int end;
         if (first.isEmpty()) {
-            start = second.get(second.size() - 2);
-            end = second.getLast();
+            start = Math.min(second.getLast(), second.get(second.size() - 2));
+            end = Math.max(second.getLast(), second.get(second.size() - 2));
         } else {
-            start = first.get(first.size() - 2);
-            end = first.getLast();
+            start = Math.min(first.getLast(), first.get(first.size() - 2));
+            end = Math.max(first.getLast(), first.get(first.size() - 2));
         }
 
                 resulted.stream()
