@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class More02_1_CarRace {
+public class MoreEx02_1_CarRace {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
