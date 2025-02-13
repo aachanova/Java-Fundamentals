@@ -9,12 +9,21 @@ public class Ex01_1_ValidUsernames {
 
         String[] output = Arrays.stream(input)
                 .filter(e -> e.length() >= 3 && e.length() <= 16)
-                .filter(e -> Character.isLetterOrDigit(e))
-                .filter(e -> e.equals("-"))
-                .filter(e -> e.equals("_"));
+                .filter(e -> isValidUsername(e))
+                .toArray(String[]::new);
 
         for (String s : output) {
             System.out.println(s);
         }
+    }
+
+    private static boolean isValidUsername(String word) {
+        for (char ch : word.toCharArray()) {
+            if (!Character.isLetterOrDigit(ch) && ch != '-' && ch != '_') {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
